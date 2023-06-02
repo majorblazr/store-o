@@ -11,6 +11,8 @@ author: ""
 
 4 pers.
 
+jaja
+
 **Ingredienser**
 
 - 2 løg
